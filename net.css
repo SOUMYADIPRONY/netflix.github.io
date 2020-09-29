@@ -63,11 +63,10 @@ img {
 }
 
 .showcase-top img {
-  width: 170px;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  width: 180px;
+  float: left;
+  position: relative;
+  margin: 10px 15px 15px 10px;
 }
 
 .showcase-top a {
